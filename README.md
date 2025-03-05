@@ -22,7 +22,3 @@ Run the installation script to set up tools:
 2. Add or modify scripts in the appropriate directory
 3. Update the README.md in that directory if needed
 4. Submit a pull request
-
-## License
-
-Internal use only - Expedia Group
